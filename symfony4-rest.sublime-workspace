@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"array\t$… = array (…)"
+			],
+			[
+				"array",
+				"array_chunk"
+			],
+			[
+				"User",
+				"UserDetails"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"permision",
+				"permisions_id"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"phpcsfi",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"PHPCompanion:Expand Fully Qualified Class Name"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git g",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony4-rest"
+	],
+	"file_history":
+	[
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony4-rest/.env",
+		"/Users/traianalexaxndru/Documents/htbase/js/closure.html",
+		"/Users/traianalexaxndru/Documents/htbase/symfony2/temp.php",
+		"/Users/traianalexaxndru/pCloud Drive/js/Espire-Angular/angular/demo/Gruntfile.js",
+		"/Users/traianalexaxndru/Documents/htbase/js/set.html",
+		"/Users/traianalexaxndru/Documents/htbase/test/test/php-doc.php",
+		"/Users/traianalexaxndru/Documents/htbase/test/test/spread.php",
+		"/Users/traianalexaxndru/Documents/htbase/test/oop-2018-04-27/README.md",
+		"/Users/traianalexaxndru/Documents/htbase/js/aync-await.html",
+		"/Users/traianalexaxndru/Documents/htbase/test/composer.json",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/example.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony2/symfony-commands",
+		"/Users/traianalexaxndru/Documents/htbase/test.sh",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-2018-08-03/tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-2018-08-03/timer.tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-2018-08-03/example.tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/tix.php",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/timer.php",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/example.tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/hello.tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/README.md",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/test.php",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-php/example2.tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-2018-08-03/example2.tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-2018-08-03/hello.tix",
+		"/Users/traianalexaxndru/Documents/htbase/test/tix-2018-08-03/README.md",
+		"/Users/traianalexaxndru/Documents/htbase/test/php-date-time-ago-2018-05-15/PhpDateTimeAgo/example.php",
+		"/Users/traianalexaxndru/Documents/htbase/test/php-date-time-ago-2018-05-15/PhpDateTimeAgo/DateTimeAgo.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/vendor/symfony/framework-bundle/Test/WebTestCase.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/tests/Form/DataTransformer/TagArrayToStringTransformerTest.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/src/Utils/Validator.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/src/Controller/Admin/BlogController.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/src/Utils/MomentFormatConverter.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/vendor/symfony/security/Http/Authentication/AuthenticationUtils.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/src/Security/PostVoter.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/config/routes.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/public/favicon.ico",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/config/routes/annotations.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/symfony-demo/vendor/symfony/browser-kit/Client.php",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/src/Entity/MicroPost.php",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/src/Controller/MicroPostController.php",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/src/Security/ExampleVoter.php",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/src/Security/MicroPostVoter.php",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/src/DataFixtures/AppFixtures.php",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/vendor/symfony/twig-bridge/AppVariable.php",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/templates/bundles/TwigBundle/Exception/error404.html.twig",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/.env",
+		"/Users/traianalexaxndru/Documents/symfony/udemy/full-source-code2/composer.json",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Entity/GroupsHasViewRoles.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Entity/ViewRoles.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Entity/Group.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Entity/User.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/config/packages/security.yaml",
+		"/Users/traianalexaxndru/Documents/symfony/symfony-commands",
+		"/Users/traianalexaxndru/Documents/symfony/symfony-work",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/config/packages/translation.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/config/packages/swiftmailer.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Controller/GroupsHasViewRolesController.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Form/GroupsHasViewRolesType.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Form/UserDetailsType.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Entity/UserDetails.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Migrations/Version20180519181002.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Migrations/Version20180519162510.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/templates/user/index.html.twig",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/templates/user/show.html.twig",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Migrations/Version20180518151418.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Controller/GroupController.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Controller/UserController.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Controller/UserDetailsController.php",
+		"/Users/traianalexaxndru/Library/Application Support/Sublime Text 3/Packages/User/SublimePhpCsFixer.sublime-settings",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Form/UserType.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/src/Form/GroupType.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/tests/UserTest.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/config/bundles.php",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/templates/group/_form.html.twig",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/templates/group/index.html.twig",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/templates/group/new.html.twig",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/templates/base.html.twig",
+		"/Users/traianalexaxndru/Documents/htbase/maestroweblocal/composer.json",
+		"/Users/traianalexaxndru/Documents/htbase/MaestroWeb/vendor/symfony/config/Definition/ArrayNode.php",
+		"/Users/traianalexaxndru/Documents/htbase/MaestroWeb/homestead.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/MaestroWeb/Vagrantfile",
+		"/Users/traianalexaxndru/Documents/htbase/MaestroWeb/composer.json",
+		"/Users/traianalexaxndru/Documents/symfony/symfony3/Ex_Files_Demo_App_Resources/Exercise Files/Resources/Symfony Commands.pdf",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/vendor/symfony/http-foundation/JsonResponse.php",
+		"/Users/traianalexaxndru/Library/Application Support/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/config/packages/security_checker.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/config/packages/twig.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/config/routes.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/routes-addnotations.txt",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/src/Controller/PermisionsController.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/src/Controller/RolesController.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/src/Entity/Permisions.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/src/Entity/Users.php",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/config/packages/doctrine_migrations.yaml",
+		"/Users/traianalexaxndru/Documents/htbase/symfony/my-project/.env",
+		"/Users/traianalexaxndru/Documents/symfony/symfony3/Ex_Files_Chapter4/Exercise Files/CH04/04_09/final/src/AppBundle/Entity/Reservation.php~",
+		"/Users/traianalexaxndru/Documents/symfony/symfony3/Ex_Files_Chapter3/Exercise Files/CH03/03_08/final/src/AppBundle/Controller/ClientsController.php",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/src/plugins/cloud/web/class/cloud-usergroup.controller.class.php",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/src/plugins/local-server/web/class/local-server-about.controller.class.php",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/src/plugins/local-server/web/tpl/local-server-about-usage.tpl.php",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/src/web/base/server/appliance/class/appliance.controller.class.php",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/src/web/base/server/appliance/class/appliance.start.class.php",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/src/plugins/cloud/web/class/cloud-private-image.controller.class.php",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/src/web/base/server/aa_server/class/datacenter.controller.class.php",
+		"/Users/traianalexaxndru/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Users/traianalexaxndru/Documents/htbase/MAESTRO/cosinit.sublime-project",
+		"/Users/traianalexaxndru/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/traianalexaxndru/Documents/htbase/index.php",
+		"/Users/traianalexaxndru/Documents/htbase/index.html"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 210.0
+	},
+	"pinned_build_system": "",
+	"project": "symfony4-rest.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appva",
+				"full-source-code2/vendor/symfony/twig-bridge/AppVariable.php"
+			],
+			[
+				"array",
+				"vendor/symfony/config/Definition/ArrayNode.php"
+			],
+			[
+				"cu",
+				"src/plugins/cloud/web/class/cloud-usergroup.controller.class.php"
+			],
+			[
+				"lsau",
+				"src/plugins/local-server/web/tpl/local-server-about-usage.tpl.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/htbase/symfony/rest/rest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
